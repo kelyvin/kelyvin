@@ -1,4 +1,10 @@
-### 🤙🏽 Suh duh
+# 🤙🏽 Suh duh
+
+Welcome to my GitHub page! Check out some of the stuff I'm currently working on.
+
+## What I'm working on
+- [FleeCOVID](https://fleecovid.com) | Travel responsibly during COVID-19
+- [Hipherd](https://hipherd.com) | A platform that uses machine learning to help you plan a trip in minutes. 
 
 <!--
 **kelyvin/kelyvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
