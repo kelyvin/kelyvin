@@ -4,7 +4,6 @@ Welcome to my GitHub page! Check out some of the stuff I'm currently working on.
 
 ## Products I've launched
 - [HipHerd](https://hipherd.com) | Plan your next group trip in minutes
-- [FleeCOVID](https://fleecovid.com) | Get the latest guidelines and stats to travel responsibly during COVID-19
 
 ## What I'm working on
 - [Unhavok](https://unhavok.com) | Creating products to eliminate the chaos of everyday problems.
