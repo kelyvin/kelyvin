@@ -6,7 +6,7 @@ Welcome to my GitHub page! Check out some of the stuff I'm currently working on.
 - [HipHerd](https://hipherd.com) | Plan your next group trip in minutes
 
 ## What I'm working on
-- [Unhavok](https://unhavok.com) | Creating products to eliminate the chaos of everyday problems.
+- [Unhavok](https://unhavok.com) | Creating products to solve everyday problems.
 - [Propellant Software](https://propellant.io) | Hire our agency for your next project
 
 ## Check me out on
